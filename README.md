@@ -10,7 +10,7 @@ node.js의 socket.io를 이용한 real-time-chat 서비스 데모버전
 
 [https://poiemaweb.com/nodejs-socketio](https://poiemaweb.com/nodejs-socketio)
 
-[https://devcenter.heroku.com/articles/node-websockets#option-2-socket-io]https://devcenter.heroku.com/articles/node-websockets#option-2-socket-io
+https://devcenter.heroku.com/articles/node-websockets#option-2-socket-io
 
 - heroku deploy 과정에서 문제 해결 : Procfile
 [https://lastgleam.github.io/2018-02-27/TIL-heroku에deploy실패기](https://lastgleam.github.io/2018-02-27/TIL-heroku%EC%97%90deploy%EC%8B%A4%ED%8C%A8%EA%B8%B0)

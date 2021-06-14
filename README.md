@@ -2,7 +2,7 @@
 
 node.js의 socket.io를 이용한 real-time-chat 서비스 데모버전
 
-# Socket.io?
+### Socket.io?
 
 [https://github.com/dahae0320/socketio-chat-demo/tree/main/node_modules/socket.io#socketio](https://github.com/dahae0320/socketio-chat-demo/tree/main/node_modules/socket.io#socketio)
 
@@ -10,12 +10,12 @@ node.js의 socket.io를 이용한 real-time-chat 서비스 데모버전
 
 [https://poiemaweb.com/nodejs-socketio](https://poiemaweb.com/nodejs-socketio)
 
-## 코드 설명
+### 코드 설명
 
-### app.js
+#### app.js
 
 서버측 코드
 
-### index.js
+#### index.js
 
 클라이언트 측 코드
